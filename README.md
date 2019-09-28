@@ -10,3 +10,8 @@ tools drakfb By MiSteya enc system Mrlinkerrorsystem 😂😎😑
 # $ git clone https://github.com/Hackermrlinkerrorsystem/Drakgelapsystem/
 # $ cd Drakgelapsystem
 # $ sh Mrlink.sh
+
+# usernya:Mrlink
+# pwnya:ganteng
+
+# wkwkwkwkwkwk
